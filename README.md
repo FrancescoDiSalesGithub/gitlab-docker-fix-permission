@@ -14,7 +14,7 @@ Where **gitlab_name_docker_container** is the name of your gitlab docker contain
 
 Example:
 ```
-bash gitlab-docker-fix.sh gitlab_name_docker_container
+bash gitlab-docker-fix.sh my-gitlab-docker-container
 ```
 
 
